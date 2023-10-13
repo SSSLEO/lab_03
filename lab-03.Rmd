@@ -23,7 +23,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 
 _Write your comments about image 1 below_
 
-
+_wide_
 
 
 
